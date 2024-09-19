@@ -53,5 +53,3 @@ shinyServer(function(input, output){
   
   
   
-
-q("no")
